@@ -1,0 +1,27 @@
+{
+  "name": "lobanovapi",
+  "version": "1.0.0",
+  "description": "URFU sirius ANTON LOBANOV",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "api",
+    "api"
+  ],
+  "author": "Anton Lobanov",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3",
+    "nanoid": "^3.1.18",
+    "sqlite3": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
